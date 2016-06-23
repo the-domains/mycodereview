@@ -1,0 +1,14 @@
+layout_spectrum: 0.1010765335522592
+typography_spectrum: 0.4716866023372859
+color:
+  brandStrength: 0.4125725708436221
+  lightness: 0.7152759311720729
+  saturation: 0.4495683361310512
+  rhythmicContrast: 0.663400192046538
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: mycodereview
